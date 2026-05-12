@@ -1,5 +1,5 @@
 Genesis Quantum: Bitcoin Egemenlik ve Risk İstihbarat Terminali
-PROJE CANLI ÖNİZLEME BAĞLANTISI
+PROJE CANLI ÖNİZLEME BAĞLANTISI --> https://genesis-quantum-bxssppy6pnfypebkmfcoce.streamlit.app
 
 Bu çalışma, kripto varlık piyasalarındaki panik satış mekanizmalarını ve piyasa derinliği değişimlerini analiz etmek amacıyla geliştirilmiş bir Karar Destek Sistemi simülasyonudur. Sistem, teorik finansal modelleri gerçek zamanlı on-chain verileriyle entegre ederek, stratejik bir risk istihbarat katmanı sunmaktadır.
 
